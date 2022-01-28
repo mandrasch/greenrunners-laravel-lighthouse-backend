@@ -1,4 +1,4 @@
-Work in progress
+Work in progress / Demo app for learning purposes
 
 -   Backend for: ....
 
