@@ -38,4 +38,12 @@ https://www.youtube.com/watch?v=x__yKzt0Pj4&list=PLe30vg_FG4ORwyiMX8qW5tn4jX_0Ec
    ddev artisan tinker
    User::factory()->create()
    (leave with "exit;")
-1.
+1. In Playground this works now:
+
+```javascript
+{
+  user(id:1){
+    name
+  }
+}
+```
