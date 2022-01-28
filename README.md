@@ -22,3 +22,5 @@ Work in progress
 1. ddev composer require nuwave/lighthouse
 1. ddev artisan vendor:publish --tag=lighthouse-schema
 1. For prettier php support `npm install --save-dev prettier @prettier/plugin-php`
+1. Endpoint is now available: https://greenrunners-laravel-lighthouse-backend.ddev.site/graphql
+1. composer require mll-lab/laravel-graphql-playground
